@@ -46,13 +46,15 @@
       <description>AppleMramorDotRu сообщает: наконец вышла iOS 9.3.7 для iPhone 4S. Исправлен баг, когда сенсор работал некорректно. Так-же улучшена защита. Удивляет что компания Apple всё ещё обновляет такое давнее устройство!</description>
       <pubDate>Sun, 05 Oct 2024 18:50:00 +0500</pubDate>
       <guid>http://example.com/news/post36</guid>
-      
+    </item>
+
     <item>
       <title>Мерч!</title>
       <link>http://example.com/news/post37</link>
       <description>Ислёс Эфэмиос: Информация о мерче появилась на сайте gettomyname! - https://gettomyname.github.io/DontSNews/ . Удачи при покупке!</description>
-      <pubDate>Sun, 05 Oct 2024 21:50:00 +0500</pubDate>
+      <pubDate>Sun, 05 Oct 2024 20:50:00 +0500</pubDate>
       <guid>http://example.com/news/post37</guid>
     </item>
+
   </channel>
 </rss>
