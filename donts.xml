@@ -5,14 +5,24 @@
     <link>http://example.com</link>
     <description>Последние новости от DontS</description>
     <language>ru</language>
-    <pubDate>Sun, 06 Oct 2024 12:00:00 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2024 12:00:00 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Oct 2024 12:00:00 +0600</pubDate>
+    <lastBuildDate>Sun, 05 Oct 2024 12:00:00 +0000</lastBuildDate>
+
     <item>
-      <title>example9.1.2</title>
-      <link>http://example.com/news/first-post-test</link>
-      <description>Пока нет нечиго нового...</description>
-      <pubDate>Sun, 06 Oct 2024 15:50:00 +0000</pubDate>
-      <guid>http://example.com/news/first-post</guid>
-        </item>
+      <title>Ислёс Эфэмиос</title>
+      <link>http://example.com/news/post33</link>
+      <description>А вы знали что Ислёс Эфэмиос запускает свой собственный мерч??? Как нет!!?? Проверьте на сайте: www.google.com . Уверяю вам понравится!</description>
+      <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
+      <guid>http://example.com/news/post35</guid>
+    </item>
+
+    <item>
+      <title>example9.1.3</title>
+      <link>http://example.com/news/post34</link>
+      <description>Пока нет ничего нового...</description>
+      <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
+      <guid>http://example.com/news/post36</guid>
+    </item>
+
   </channel>
 </rss>
