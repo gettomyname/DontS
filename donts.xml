@@ -5,14 +5,14 @@
     <link>http://example.com</link>
     <description>Последние новости от DontS</description>
     <language>ru</language>
-    <pubDate>Sun, 05 Oct 2024 12:00:00 +0600</pubDate>
-    <lastBuildDate>Sun, 05 Oct 2024 12:00:00 +0600</lastBuildDate>
+    <pubDate>Sun, 05 Oct 2024 12:00:00 +0500</pubDate>
+    <lastBuildDate>Sun, 05 Oct 2024 12:00:00 +0500</lastBuildDate>
 
     <item>
       <title>Ислёс Эфэмиос</title>
       <link>http://example.com/news/post32</link>
       <description>А вы знали что Ислёс Эфэмиос запускает свой собственный мерч??? Как нет!!?? Проверьте на сайте: www.google.com. Уверяю вам понравится!</description>
-      <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
+      <pubDate>Sun, 05 Oct 2024 15:50:00 +0500</pubDate>
       <guid>http://example.com/news/post32</guid>
     </item>
 
@@ -20,7 +20,7 @@
       <title>example9.1.3</title>
       <link>http://example.com/news/post33</link>
       <description>Пока нет ничего нового...</description>
-      <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
+      <pubDate>Sun, 05 Oct 2024 15:50:00 +0500</pubDate>
       <guid>http://example.com/news/post33</guid>
     </item>
 
@@ -28,7 +28,7 @@
       <title>6A Деградация.</title>
       <link>http://example.com/news/post34</link>
       <description>Деградация идёт полным ходом, уже никто не знает, как от этого лечится. Помогут только противозачаточные.</description>
-      <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
+      <pubDate>Sun, 05 Oct 2024 15:50:00 +0500</pubDate>
       <guid>http://example.com/news/post34</guid>
     </item>
     
@@ -36,7 +36,7 @@
       <title>Целевая Воин</title>
       <link>http://example.com/news/post35</link>
       <description>Зеленые коты учат облака танцевать на завтрашнем дне, пока слоны сгорают от смеха...</description>
-      <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
+      <pubDate>Sun, 05 Oct 2024 15:50:00 +0500</pubDate>
       <guid>http://example.com/news/post35</guid>
     </item>
 
@@ -44,7 +44,7 @@
       <title>iOS 9.3.7</title>
       <link>http://example.com/news/post36</link>
       <description>AppleMramorDotRu сообщает: наконец вышла iOS 9.3.7 для iPhone 4S. Исправлен баг, когда сенсор работал некорректно. Так-же улучшена защита. Удивляет что компания Apple всё ещё обновляет такое давнее устройство!</description>
-      <pubDate>Sun, 05 Oct 2024 18:50:00 +0600</pubDate>
+      <pubDate>Sun, 05 Oct 2024 18:50:00 +0500</pubDate>
       <guid>http://example.com/news/post36</guid>
     </item>
   </channel>
