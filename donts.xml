@@ -8,25 +8,11 @@
     <pubDate>Sun, 06 Oct 2024 12:00:00 +0000</pubDate>
     <lastBuildDate>Sun, 06 Oct 2024 12:00:00 +0000</lastBuildDate>
     <item>
-      <title>Первый пост (TEST)</title>
+      <title>example9.1.2</title>
       <link>http://example.com/news/first-post-test</link>
-      <description>Это первый пост в ленте DontS News.</description>
-      <pubDate>Sun, 06 Oct 2024 12:00:00 +0000</pubDate>
+      <description>Пока нет нечиго нового...</description>
+      <pubDate>Sun, 06 Oct 2024 15:50:00 +0000</pubDate>
       <guid>http://example.com/news/first-post</guid>
-    </item>
-    <item>
-      <title>Второй пост (TEST)</title>
-      <link>http://example.com/news/second-post-test</link>
-      <description>Это второй пост в ленте DontS News.</description>
-      <pubDate>Sun, 06 Oct 2024 13:00:00 +0000</pubDate>
-      <guid>http://example.com/news/second-post</guid>
-    </item>
-    <item>
-      <title>DontS and RSS!</title>
-      <link>http://example.com/news/post32</link>
-      <description>Теперь DontS есть в RSS, и он будет рад сообщать вам новости!</description>
-      <pubDate>Sun, 06 Oct 2024 13:45:00 +0000</pubDate>
-      <guid>http://example.com/news/post32</guid>
         </item>
   </channel>
 </rss>
