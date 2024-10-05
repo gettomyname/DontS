@@ -10,45 +10,26 @@
 
     <item>
       <title>Ислёс Эфэмиос</title>
-      <link>http://example.com/news/post33</link>
+      <link>http://example.com/news/post32</link>
       <description>А вы знали что Ислёс Эфэмиос запускает свой собственный мерч??? Как нет!!?? Проверьте на сайте: www.google.com . Уверяю вам понравится!</description>
       <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
-      <guid>http://example.com/news/post35</guid>
+      <guid>http://example.com/news/post32</guid>
     </item>
 
     <item>
       <title>example9.1.3</title>
-      <link>http://example.com/news/post34</link>
+      <link>http://example.com/news/post33</link>
       <description>Пока нет ничего нового...</description>
       <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
-      <guid>http://example.com/news/post36</guid>
+      <guid>http://example.com/news/post33</guid>
     </item>
 
     <item>
-      <title>Стих: Голубинные помехи!</title>
+      <title>6A Деградация.</title>
       <link>http://example.com/news/post34</link>
-      <description>Голуби в небе, с грацией в полете,
-Словно облака, что мечтают в бесконечности.
-Но среди их крыльев, увы, суета,
-Голубиные помехи — шум, не знающий конца.
-
-В парке, на площади, на ветвях деревьев,
-Собрались они в дружной компании, как в сказке.
-Крик их резкий, и в сердце трепет,
-Каждый взмах крыльев — как стихи, что ускользают.
-
-Голуби не ведают, что время летит,
-И мир не безмолвен, когда они кружат.
-Помехи в ритме, в звуках далеких,
-Создают симфонию в наших умах, словно танец.
-
-И пусть они шумят, пускай не в попад,
-Их песни о жизни — всегда безмятежны.
-Голуби, как мысли, не в такт временам,
-Несут свои помехи, как ветра ветвям.</description>
-      <pubDate>Sun, 05 Oct 2024 19:50:00 +0600</pubDate>
-      <guid>http://example.com/news/post37</guid>
+      <description>Деградация идёт полным ходом, уже никто не знает, как от этого лечится. Помогут только противозачаточные.</description>
+      <pubDate>Sun, 05 Oct 2024 15:50:00 +0600</pubDate>
+      <guid>http://example.com/news/post34</guid>
     </item>
-
   </channel>
 </rss>
