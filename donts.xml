@@ -84,8 +84,16 @@
       <title>Mr.Beast - Feastables</title>
       <link>http://example.com/news/post41</link>
       <description>я папробывал шэколадку мизтэра бизта! Фистаблз за 1550 тинге! Малинъкий!</description>
-      <pubDate>Sun, 06 Oct 2024 018:20:00 +0500</pubDate>
+      <pubDate>Sun, 06 Oct 2024 18:20:00 +0500</pubDate>
       <guid>http://example.com/news/post41</guid>
+    </item>
+
+    <item>
+      <title>WishList</title>
+      <link>http://example.com/news/post42</link>
+      <description>中國為你感到驕傲，你免費賣掉了阿里克帳篷。不知怎的，這家店不拘泥於傳統，祝你好運，兄弟，祝你好運！不要使用太多積分</description>
+      <pubDate>Sun, 06 Oct 2024 20:20:00 +0500</pubDate>
+      <guid>http://example.com/news/post42</guid>
     </item>
 
   </channel>
