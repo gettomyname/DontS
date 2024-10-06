@@ -64,5 +64,13 @@
       <guid>http://example.com/news/post38</guid>
     </item>
 
+    <item>
+      <title>Ooh Yeah!</title>
+      <link>http://example.com/news/post39</link>
+      <description>а вы знали что iPad 4 получит айос 11, спустя столько уш лет! Наконец! Дождались!</description>
+      <pubDate>Sun, 06 Oct 2024 03:50:00 +0500</pubDate>
+      <guid>http://example.com/news/post39</guid>
+    </item>
+
   </channel>
 </rss>
