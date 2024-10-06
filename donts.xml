@@ -96,5 +96,13 @@
       <guid>http://example.com/news/post42</guid>
     </item>
 
+    <item>
+      <title>Скоро...</title>
+      <link>http://example.com/news/post43</link>
+      <description>Скоро моя коллекция iДевайсов, пополниться iPhone-ом 4!</description>
+      <pubDate>Sun, 06 Oct 2024 21:20:00 +0500</pubDate>
+      <guid>http://example.com/news/post43</guid>
+    </item>
+
   </channel>
 </rss>
