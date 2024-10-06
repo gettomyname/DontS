@@ -72,5 +72,13 @@
       <guid>http://example.com/news/post39</guid>
     </item>
 
+<item>
+      <title>example 9.1.4</title>
+      <link>http://example.com/news/post40</link>
+      <description>Этот пост был создан для тестировки ПОСТА </description>
+      <pubDate>Sun, 06 Oct 2024 08:50:00 +0500</pubDate>
+      <guid>http://example.com/news/post40</guid>
+    </item>
+
   </channel>
 </rss>
