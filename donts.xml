@@ -5,6 +5,11 @@
     <link>http://example.com</link>
     <description>Последние новости от DontS</description>
     <language>ru</language>
+    <image>
+      <url>https://raw.githubusercontent.com/gettomyname/DontS/40c43a732099c14cee5a89f26bf62362300f958e/imagejpg.png</url>
+      <title>DontS</title>
+      <link>http://example.com</link>
+    </image>
     <pubDate>Sun, 05 Oct 2024 12:00:00 +0500</pubDate>
     <lastBuildDate>Sun, 05 Oct 2024 12:00:00 +0500</lastBuildDate>
 
